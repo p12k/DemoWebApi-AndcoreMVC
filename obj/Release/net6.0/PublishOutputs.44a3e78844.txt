@@ -1,0 +1,12 @@
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\DemoWEBAPI.exe
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\DemoWEBAPI.dll
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\DemoWEBAPI.deps.json
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\DemoWEBAPI.runtimeconfig.json
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\DemoWEBAPI.pdb
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\DemoWEBAPI\DemoWEBAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
